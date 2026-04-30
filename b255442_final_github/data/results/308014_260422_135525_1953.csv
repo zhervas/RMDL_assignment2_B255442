@@ -1,0 +1,45 @@
+rowNo,type,condition1,trialNo,stim1,accuracy,stimFormat,stimSize,ITI,presTime,random,responseType,responseOptions,ITI_ms,ITI_f,ITI_fDuration,presTime_ms,presTime_f,presTime_fDuration,timestamp,response,RT,participant,early_late_acquisition,proficiency_self_rated,current_exposure
+3,test,congruent_eng,1,apple_APPLE,1,.jpg,400 400,800,2000,1,mic,save,800,48,16.67,1740,104,16.67,153185,mic,623,1953,late,9,6
+4,test,congruent_span,2,apple_MANZANA,1,.jpg,400 400,800,2000,1,mic,save,800,48,16.67,1907,114,16.67,95635,mic,789,1953,late,9,6
+5,test,incongruent_eng,3,apple_MEAT,1,.jpg,400 400,800,2000,1,mic,save,800,48,16.67,1904,114,16.67,106416,mic,787,1953,late,9,6
+6,test,incongruent_span,4,apple_QUESO,1,.jpg,400 400,800,2000,1,mic,save,801,48,16.68,2000,120,16.67,190685,mic,1389,1953,late,9,6
+7,test,congruent_eng,5,bird_BIRD,1,.jpg,,800,2000,1,mic,save,799,48,16.65,1745,104,16.67,129913,mic,627,1953,late,9,6
+8,test,incongruent_eng,6,bird_DOG,1,.jpg,,800,2000,1,mic,save,800,48,16.66,1875,112,16.67,160992,mic,757,1953,late,9,6
+9,test,congruent_span,7,bird_PAJARO,1,.jpg,,800,2000,1,mic,save,801,48,16.68,2000,120,16.67,92942,mic,1006,1953,late,9,6
+10,test,incongruent_span,8,bird_PERRO,1,.jpg,,800,2000,1,mic,save,800,48,16.67,1731,103,16.67,132426,mic,614,1953,late,9,6
+11,test,congruent_eng,9,cat-CAT,1,.png,400 500,800,2000,1,mic,save,800,48,16.66,1850,110,16.66,166103,mic,734,1953,late,9,6
+12,test,incongruent_eng,10,cat_DOG,1,.png,400 500,800,2000,1,mic,save,800,48,16.67,1907,114,16.67,98341,mic,789,1953,late,9,6
+13,test,incongruent_span,11,cat_PERRO,1,.png,400 500,800,2000,1,mic,save,800,48,16.66,1941,116,16.67,87292,mic,823,1953,late,9,6
+14,test,congruent_span,12,cat_GATO,1,.png,400 500,800,2000,1,mic,save,800,48,16.66,1803,108,16.67,135023,mic,687,1953,late,9,6
+15,test,incongruent_eng,13,cheese_APPLE,1,.jpg,,800,2000,1,mic,save,800,48,16.66,1949,116,16.67,150663,mic,827,1953,late,9,6
+16,test,congruent_eng,14,cheese_CHEESE,1,.jpg,,800,2000,1,mic,save,800,48,16.66,1708,102,16.66,155701,mic,599,1953,late,9,6
+17,test,incongruent_span,15,cheese_MANZANA,1,.jpg,,800,2000,1,mic,save,801,48,16.68,1893,113,16.67,171462,mic,777,1953,late,9,6
+18,test,congruent_span,16,cheese_QUESO,1,.jpg,,800,2000,1,mic,save,801,48,16.68,1847,110,16.66,158335,mic,739,1953,late,9,6
+19,test,congruent_eng,17,cow_COW,1,.jpg,500 400,800,2000,1,mic,save,800,48,16.66,1760,105,16.67,117085,mic,639,1953,late,9,6
+20,test,incongruent_eng,18,cow_BIRD,1,.jpg,500 400,800,2000,1,mic,save,801,48,16.68,1898,113,16.66,168776,mic,781,1953,late,9,6
+21,test,congruent_span,19,cow_VACA,1,.jpg,500 400,800,2000,1,mic,save,799,48,16.65,1808,108,16.67,119692,mic,690,1953,late,9,6
+22,test,incongruent_span,20,cow_PAJARO,1,.jpg,500 400,800,2000,1,mic,save,800,48,16.67,2000,120,16.67,114551,mic,899,1953,late,9,6
+23,test,congruent_eng,21,dog_DOG,1,.png,500 500,800,2000,1,mic,save,800,48,16.67,1730,103,16.67,127377,mic,614,1953,late,9,6
+24,test,congruent_span,22,dog_PERRO,1,.png,500 500,800,2000,1,mic,save,800,48,16.66,1863,111,16.67,81881,mic,746,1953,late,9,6
+25,test,incongruent_eng,23,dog_CAT,1,.png,500 500,800,2000,1,mic,save,799,48,16.65,1894,113,16.67,84555,mic,775,1953,late,9,6
+26,test,incongruent_span,24,dog_GATO,1,.png,500 500,800,2000,1,mic,save,800,48,16.66,1824,109,16.67,145292,mic,707,1953,late,9,6
+27,test,congruent_eng,25,eye_EYE,1,.jpg,500 500,800,2000,1,mic,save,799,48,16.65,1665,99,16.67,142685,mic,557,1953,late,9,6
+28,test,congruent_span,26,eye_OJO,1,.jpg,500 500,800,2000,1,mic,save,800,48,16.66,1775,106,16.67,182201,mic,666,1953,late,9,6
+29,test,incongruent_span,27,eye_MANO,1,.jpg,500 500,800,2000,1,mic,save,800,48,16.66,1847,110,16.67,140232,mic,730,1953,late,9,6
+30,test,incongruent_eng,28,eye_HAND,1,.jpg,500 500,800,2000,1,mic,save,800,48,16.66,1761,105,16.67,174005,mic,644,1953,late,9,6
+31,test,congruent_eng,29,hand_HAND,1,.jpg,450 450,800,2000,1,mic,save,800,48,16.66,1755,105,16.67,79216,mic,635,1953,late,9,6
+32,test,congruent_span,30,hand_MANO,1,.jpg,450 450,800,2000,1,mic,save,800,48,16.67,1784,106,16.67,137605,mic,676,1953,late,9,6
+33,test,incongruent_span,31,hand_BOCA,1,.jpg,450 450,800,2000,1,mic,save,800,48,16.67,1865,111,16.67,179625,mic,746,1953,late,9,6
+34,test,incongruent_eng,32,hand_MOUTH,1,.jpg,450 450,800,2000,1,mic,save,800,48,16.67,1853,111,16.67,103721,mic,736,1953,late,9,6
+35,test,congruent_eng,33,mouth_MOUTH,1,.png,600 600,800,2000,1,mic,save,800,48,16.67,1937,116,16.67,101066,mic,820,1953,late,9,6
+36,test,congruent_span,34,mouth_BOCA,1,.png,600 600,800,2000,1,mic,save,800,48,16.67,1745,104,16.67,124861,mic,626,1953,late,9,6
+37,test,incongruent_span,35,mouth_NARIZ,1,.png,600 600,800,2000,1,mic,save,800,48,16.67,1885,112,16.67,109102,mic,766,1953,late,9,6
+38,test,incongruent_eng,36,mouth_NOSE,1,.png,600 600,800,2000,1,mic,save,800,48,16.67,2000,120,16.67,76672,mic,1034,1953,late,9,6
+39,test,congruent_eng,37,nose_NOSE,1,.jpg,400 500,800,2000,1,mic,save,800,48,16.67,1677,100,16.67,163465,mic,569,1953,late,9,6
+40,test,congruent_span,38,nose_NARIZ,1,.jpg,400 500,800,2000,1,mic,save,800,48,16.67,1868,111,16.67,111746,mic,750,1953,late,9,6
+41,test,incongruent_eng,39,nose_HAND,1,.jpg,400 500,800,2000,1,mic,save,800,48,16.66,1857,111,16.66,187390,mic,739,1953,late,9,6
+42,test,incongruent_span,40,nose_MANO,1,.jpg,400 500,800,2000,1,mic,save,800,48,16.66,1757,105,16.67,184745,mic,649,1953,late,9,6
+43,test,incongruent_span,41,strawberry_CARNE,1,.jpg,400 500,800,2000,1,mic,save,799,48,16.65,2001,120,16.67,176980,mic,1063,1953,late,9,6
+44,test,incongruent_eng,42,strawberry_CHEESE,1,.jpg,400 500,800,2000,1,mic,save,799,48,16.65,1948,116,16.67,90025,mic,829,1953,late,9,6
+45,test,congruent_eng,43,strawberry_STRAWBERRY,1,.jpg,400 500,800,2000,1,mic,save,800,48,16.66,1838,110,16.67,147925,mic,729,1953,late,9,6
+46,test,congruent_span,44,strawberry_FRESA,1,.jpg,400 500,800,2000,1,mic,save,800,48,16.67,1838,110,16.67,122316,mic,720,1953,late,9,6

@@ -1,0 +1,284 @@
+---
+title: "RMDL Assessment 2: Age of Acquisition Effects on Picture-Word Stroop Interference: Evidence from English-Spanish Early and Late Bilinguals"
+format: pdf
+authors:
+  - name: B255442
+bibliography: RMDL Final Assessment Bibliography - B255442.bib
+execute: 
+  echo: true
+---
+
+# Background
+
+  Stroop tasks have long been an important means of measuring lexical interference and processing speeds. Although the classic Stroop task is purely lexical, in the sense that it consists of presenting a word to participants who must say the color it is written in, much attention has been turned to Stroop tasks which involve images in addition to words. Originally described by Lassen (1974), the Picture-Word Interference (PWI) task consists of images of objects overlaid with a distractor word -- much like the original Stroop task, participants must name the picture, and not the word they see written. While it differs in the exact visual modality it employs, the asymmetry between picture naming in the presence of a word has been repeatedly attested to be similar to that between words and colour naming (MacLeod, 1991; van Maanen, et. al., 2009), making it generally recognised as a type of Stroop task.
+  
+  The fact that PWI tasks use pictures mean they allow to test different kinds of interference. Notably, the superimposed words can be manipulated in terms of how semantically related they are to the concept the picture illustrates, much in the same way that the congruency and incongruency of colour can be manipulated in a Stroop colour task (for instance, writing "DOG" over a picture of a cat). It is generally assumed that pictures activate conceptual representations, and that these in turn activate lexical representations. Moreover, there is "spreading activation": a picture of a table might activate conceptual representations of a chair, a desk..., and these in turn activate their lexical representations (Roelofs, 1992). In regular picture-naming, this activation does not pose a problem; however, when a distracting word is displayed over the picture, this can cause interference: if "chair" is written over a picture of a table, then the lexical representation CHAIR should fire from the written word, in addition to from the spreading activation from the picture of the chair. Indeed, semantic interference effects are widely attested in PWI tasks: speakers consistently name pictures more slowly when they are accompanied by a semantically related distractor word than an unrelated one (Lupker, 1979).
+  
+  This issue becomes more interesting and complex for speakers of more than one language. While it has been shown that monolinguals and bilinguals perform similarly in single-language PWI tasks (Hall, 2011), studies have ascertained robust between-language interference in Stroop tasks (MacLeod, 1991). For one, bilinguals are generally assumed to have different lexical representations for the languages they know (de Groot, 1993), and it has been shown that these are automatically and simultaneously co-activated when bilinguals read or process language (Green, 1986; Giezen & Emmorey, 2016). PWI tasks testing bilinguals have often demonstrated two main effects. The first is the identity effect: an image will be named faster when the distractor word is identical to the image's name than if it is a related or unrelated word, regardless of the language it is shown in (Costa, et. al., 1999). For instance, an English-Spanish bilingual will name a picture of a cat in English faster when the distractor is "CAT" than when it is "DOG", and faster when the distractor is "GATO" than when it is "PERRO". The second is that semantic interference is similar when naming a picture regardless of the language the distractor is in (Costa, et. al., 1999). Highly proficient Spanish-Catalan bilinguals had similar reaction times when naming pictures in Catalan that were superimposed with a semantically related word either in Catalan or in Spanish (Costa, et. al., 1999).
+  
+  However, these findings have posed problems for determining a model of bilingual lexical selection. Indeed, if the picture and the word shown in a PWI task both activate semantic representations which activate lexical representations for each language in turn (seeing a cat and the word "PERRO" would activate the conceptual representations of 'cat' and 'dog', and in turn activate "CAT", "DOG", "GATO", and "PERRO"), then how is it that bilinguals are able to produce words in the intended language, rather than their translation equivalent? One theory is that lexical selection is language-nonspecific; that is, nodes from both languages' lexical representations compete for selection at the production phase. Evidence for this is taken from the fact that distractor words in another language that are phonologically similar to the target word's translation into that language lead to slower naming times (Hermans, et. al., 1998). According to this view, this shows that the lexical representations from the other language are actively competing with those in the target language during production. On the other hand, a theory of language-specific selection holds that, even if lexical representations are activated in both languages by distractor words, knowing what language the word must be produced in makes it so that only activated nodes in the target langauge compete. Evidence for this is taken from the fact that translation equivalents of the target word as distractors cause facilitation rather than interference compared to semantically related words (seeing "PERRO" causes "DOG" to be named faster when a dog is shown). According to Costa et. al. (1999), this demonstrates that speakers are only considering the activated words in the target language; if not, then the translation equivalent "PERRO" would be equally up for consideration and would slow production.
+  
+  Another complication with PWI tasks is that they have frequently considered only simultaneous bilinguals or highly proficient late bilinguals separately; ill-frequently have they compared how early versus late bilinguals performed in PWI paradigms. Some studies comparing lexical access and inhibition in early versus late bilinguals have claimed that early bilinguals have enhanced inhibition of interference from their second language (Peristeri et. al., 2018); L2 fluency has also been shown to predict how well bilinguals can inhibit its interference in Stroop tasks (Suarez, et. al., 2014). Moreover, one's dominant language typically has more potential for causing interlingual interference than a nondominant one (MacLeod, 1991).
+  
+  These competing findings and models warrant an investigation into how acquisition times influence bilinguals' performance on PWI tasks, and how this might further inform our understanding of bilingual lexical selection. This study models Costa et. al.'s (1999) study on Spanish-Catalan bilinguals, examining early versus late English-Spanish bilinguals' reaction time when naming pictures with equivalent or semantically related distractor words, in both languages. It extends their findings of the identity effect for equivalent distractors, and of general semantic interference for semantically related words, to ask the following research questions:
+
+### Research Questions/Hypotheses
+
+1. Do late English-Spanish bilinguals experience more interference in the identity condition from L2 translation equivalents of the target word compared to their early bilingual counterparts?
+*Hypothesis: I predict that, being more directly conceptually mediated, L2 translation equivalents do not produce more interference within late bilinguals than within early bilinguals; consequently, L2 translation equivalents should have a similar facilitation effect in both groups, in line with Costa et. al. (1999).*
+
+2. Do late English-Spanish bilinguals experience more semantic interference from semantically related words in their L2 than in their L1 compared to early bilinguals?
+*Hypothesis: On the other hand, given that semantically related words incur more complex lexical activation through the relevant semantic representation, I predict that late bilinguals will have more semantic interference from semantically related words in their L2 compared to early bilinguals. Both groups should have the same amount of interference in English.*
+
+## Methods
+
+*Briefly report the methods of the study (participants, materials, procedure, statistical analysis...). Note that when discussing the statistical analysis you should clearly state how the analysis results will be used to assess the RQs/RHs (be as specific and precise as you can). Include an Open Research/Data availability statement.*
+
+### Materials
+
+  The present study uses a Picture-Word Interference task, meaning that participants were shown pictures with different types of distractor words superimposed over them. Their task was to name the pictures aloud while ignoring the words, and their reaction time was recorded. The study follows the designs of Experiments 1 and 3 of Costa et. al. (1991), which tested different-language identical (congruent with the name of the picture) distractors and noncognate semantically related distractors, respectively. The target language was English throughout the entire experiment; this means that each target item occurred in 4 different distractor word conditions: 
+  • English congruent: the image appeared with its English equivalent (a picture of a dog with distractor "DOG")
+  • Spanish congruent: the image appeared with its Spanish translation equivalent (a picture of a dog with distractor "PERRO")
+  • English incongruent: the image appeared with a semantically related English word (a picture of a dog with distractor "CAT")
+  • Spanish incongruent: the image appeared with a smenatically related Spanish word (a picture of a dog with distractor "GATO")
+  
+  A list of 11 words was put together: 
+  • 3 foods (apple, cheese, strawberry)
+  • 4 animals (bird, cat, dog, cow)
+  • 4 body parts (eye, mouth, hand, nose) 
+  
+  Crucially, words were organised into categories because it has been found that no interference occurs when distractor words are not in the same semantic category - for example, "DOG" produced semantic interference when naming a mouse, but not "CHEESE", despite semantic association (Lupker, 1979). For each word on the list, an easily recognisable black and white line drawing of it was downloaded and duplicated 4 times. Each duplicate of the image had either the English word, the Spanish word, an English word from its semantic category, or a Spanish word from its semantic category, superimposed onto it. For example, the image of the hand was overlaid with "HAND", "MANO", "MOUTH", and "BOCA". All the words displayed on the images came from the list of 11 words created, and always from the same category. Every care was taken to match the font size across pictures; words were placed in the middle of the image and aligned so that they did not block any part of the image. This yielded 44 total images. All of these images are included along with the files for this project in the project's repository linked below.
+  
+### Participants
+
+  7 participants were recruited through word-of-mouth. All participants completed the Language Experience and Proficiency Questionnaire (LEAP-Q) (Marian, et. al., 2007), which was used to record the age they began learning and became fluent in English and Spanish, as well as self-recorded proficiency. All were highly proficient. All were native speakers of English; 4 were early simultaneous Spanish bilinguals (began learning and was a dominant language by the age of 5), 3 were late bilinguals (became fluent between 18 and 21 years old). 
+  
+### Procedure
+
+  The experiment took place on Testable once participants had filled out their LEAP-Q forms and consented. All 44 images were uploaded to Testable and coded based on their condition beforehand. Participants were first presented with instructions: to ensure they were in a quiet environment with a working microphone. They were told they would be shown images with a word over them, and that their goal was to name the picture, in English, while ignoring the word written over it. They were told their speed and accuracy would be measured, and so to go as fast as possible once the image was displayed while staying as accurate as possible. Each trial consisted of one image being presented in the centre of the screen. The inter-trial interval was 800 milliseconds, images were displayed one after another without participants needing to press through. After the image was displayed, the software would begin recording participants' conversation, and recorded their reaction time as the time between the presentation of the stimulus and when it detected their speech. Recordings of each answer were automatically saved in order to be analysed for accuracy. The image disappeared from the screen once they started speaking or once 2000ms had elapsed. Trials were presented in a randomised order. 
+  
+### Statistical Analysis
+
+  This study is primarily concerned with investigating semantic interference and facilitation effects between early and late bilinguals. The dependent variable for these effects is the Reaction Times of participants across each of the conditions listed previously. For this reason, the interaction of RT and condition type are modeled using a Bayesian Regressian model between the different groups (early versus late bilingual). The regression models fit to answer the research question will also model the relevant intercept and slopes by-participant. Given that the variable of interest is Reaction Time, a Lognormal family of regression models is used.
+  
+  Research Question 1 is "Do late English-Spanish bilinguals experience more interference in the identity condition from L2 translation equivalents of the target word than their early bilingual counterparts?" The identity condition refers to conditions in which the distractors are the equivalent term for the picture in either language. The predictions for this question are within-group: if the hypothesis is correct, then late and early bilinguals will have the same amount of interference across the congruent conditions and thus similar within-group RTs for both conditions. They should also have a facilitation effect compared to each language's congruent counterpart. For this to be investigated, two analyses will be conducted. Firstly, a within-group analysis comparing each group's RTs between the congruent English and Spanish condition. The hypothesis would predict that the expected predictions would be within the same range across conditions within each group. Secondly, a within-groups analysis will be conducted comparing each groups' expected predictions of RTs across the congruent and incongruent conditions between each language. That is, the hypothesis would predict that early bilinguals will be faster in the English congruent than incongruent conditions, and faster in the Spanish congruent than incongruent conditions. This should also be ture for early bilinguals.
+
+  The expected predictions of the model will therefore be used to compare these aspects within-groups and see whether they hold across both groups.
+  
+  Research Question 2 is "Do late English-Spanish bilinguals experience more semantic interference from semantically related words in their L2 than in their L1 compared to early bilinguals?" Semantic interference refers to conditions in which the distractor word is not congruent with the target word, but is semantically related to it. In order to investigate this, the interaction of Reaction Time and language group will be evaluated and compared across both the English incongruent and Spanish incongruent conditions. Specifically, the groups' RTs will be compared between-group within-condition (comparing early and native learners' RTs in the English and Spanish incongruent conditions). If the hypothesis is correct, then late bilinguals will name pictures slower in the Spanish incongruent condition than early bilinguals. Both groups should perform similarly in the English incongruent condition, as predicted by Hall (2011).
+  
+### Open Research/Data Availability Statement
+
+  All of the files needed to access and run this project locally can be found at https://github.com/zhervas/RMDL_assignment2_B255442 .
+  This repository contains this Quarto doc, all of the materials used for the procedure, and data.
+
+# Data
+
+### Read and process the data
+
+  After collection from Testable, participants' responses across conditions were concatenated into one .csv file, "results_concatenated.csv", and annotated to contain each participant's anonymised participant number and language experience data. It contains 12 relevant columns:
+• condition1: Whether the distractor word was congruent with the image, and whether the word was in English (eng) or Spanish (span). For example, "incongruent_span" referred to a word not semantically congruent with the image, in Spanish. So if the image was of a cat, then the word PERRO (dog in Spanish) superimposed over it would be incongruent, Spanish.
+• stim1:The image (lowercase) and what distractor word (capital) was superimposed over it. For example, apple_MANZANA meant a picture of an apple with the Spanish word "manzana" written over it.
+• accuracy: Whether the participant said the correct target word ("apple" if shown a picture of an apple). 1 = correct, 0 = incorrect.
+• RT: The time taken to respond after the image was displayed.
+• participant: The respondent's participant number, used to match their responses to their language proficiency questionnaire responses.
+• early_late_acquisition: Whether the participant acquired Spanish early (< 5 years old) or late (> 18 years old). The earliest "late" bilingual became proficient at 18 years old; the latest "early" bilingual became proficient at 5 years old. I acknowledge the limitations of grouping the data rather than accounting for every individual difference, however firstly not much difference occurred within the early bilinguals, as they had all learned the language simultaneously with English; secondly there was a sufficient divide between the oldest early bilingual and youngest late bilingual that the grouping was deemed appropriate enough.
+• language: Whether the distractor word was in English (eng) or in Spanish (span).
+• congruency: Whether the distractor word was congruent with the image (the same word as the image shown) or incongruent (merely semantically related).
+
+```{r}
+#| label: read-data
+
+library(tidyverse)
+library(ggplot2)
+library(ggdist)
+library(brms)
+
+data <- read_csv("./data/results/results_concatenated.csv") 
+```
+  Firstly, incorrect responses were removed from analysis, as incorrect responses should not contribute to the evaluation of participants' RTs when saying the expected answer. There were only 7 incorrect answers across the 352 total rows of data. Additionally, inspection of the concatenated data after collection revealed that while most of the reaction times recorded were clustered under 2000 milliseconds, there were 10 responses over 2000 milliseconds, 8 of which were over 5000ms. These were infallibly errors since the maximum time allotted before the trial automatically skipped was 2000ms. This left 336 observations of the 352 original.
+```{r}
+data_filtered <- data |>
+  filter(accuracy == 1, RT < 2000)
+```
+
+### Plot the data
+
+### Figure 1
+
+1. First, we can plot a violin plot of Reaction Times across each of the four conditions across all participants, not comparing language acquisition background. As expected, this graph is fairly uninformative; besides the congruent English condition having the lowest range of values, as expected since it has the least interference, the means all seem clustered around similar values across conditions.
+```{r}
+data_filtered |>
+  ggplot(aes(condition1, RT)) + geom_violin()
+```
+### Figure 2
+
+2. Violin plot of Reaction Times across each of the four conditions, compared between early (red) and late (blue) bilinguals. In contrast to Figure 1, there seems to be a contrast between the distribution in RTs across acquisition groups. It looks as though the ranges and mean clusters for early bilinguals' responses are consistently higher than those for late bilinguals' responses. Late bilinguals seemed to have values clustered in the same ranges for the congruent Spanish, incongruent English, and incongruent Spanish conditions. Early bilinguals' RTs seem to be clustered only slightly higher in the incongruent than the congruent conditions. Across both acquisition groups, there are slightly more values clustered higher in the incongruent groups regardless of language than the congruent groups. The congruent English condition looks as though it had the fastest RTs across both groups. At a glance, this would suggest that early bilinguals are generally slower, and that incongruent conditions are generally slower across both acquisition groups, across both languages.
+```{r}
+data_filtered |>
+  ggplot(aes(condition1, RT, color = early_late_acquisition)) + geom_violin()
+```
+
+## Summarise the data
+
+  First, the data was grouped by language group and condition. Then, the mean and standard deviation were computed for each intersection, along with the median, maximum, and minimum.
+```{r}
+data_filtered |>
+  group_by(early_late_acquisition, condition1) |>
+  summarise(round(mean(RT), 2), round(sd(RT), 2), round(median(RT), 2), max(RT), min(RT))
+```
+  Overall, the early bilinguals appear to have higher reaction times across all conditions on average. Although their standard deviations are higher, their means and medians are between 100-200ms higher than those of the late bilinguals. Late bilinguals have comparable ranges between the congruent and incongruent conditions; they have similar means and medians here regardless of language. 
+
+## Regression modelling
+
+# Fitting the model
+
+  Because the variable of interest is reaction time, the model family chosen is lognormal. This fits a Bayesian Regression model to reaction time as the outcome variable, and condition type and acquisition age range as the predictors. For thoroughness, the model was run with the language and congruency type of each trial as predictors rather than merely pre-coded condition type. This was to capture any eventual language or congruency effects that might not have been fully represented otherwise. The model also varies these conditions by-participant, meaning that individual differences among participants on how they performed in each condition individually are accounted for and effectively "smoothed over" when modelling any possible effects of condition and acquisition age. Importantly, early_late_acquisition is *not* varied by-participant, each participant only had one possible acquisition type, so the variation in acquisition type within participants was not measurable.
+  A random seed, 54321, is used for data reproducibility. adapt_delta was increased to 0.99 and max_treedepth to 15 to handle divergent transition issues.
+  
+```{r}
+data_bm <- brm(
+  RT ~ language * congruency * early_late_acquisition + (language * congruency | participant),
+  family = lognormal,
+  data = data_filtered,
+  seed = 54321,
+  cores = 4,
+  control = list(adapt_delta = 0.99, max_treedepth = 15),
+  file = "data/cache/data_bm")
+```
+# Obtaining Summary Measures
+
+Next, we obtain a summary of the model.
+```{r}
+summary(data_bm)
+```
+  Intercept refers to the mean RT, if condition and acquisition type could be 0. This summary says it is between 660 and 695 ms, at 95% confidence. The different coefficients displayed below it refer to how RT changes based on the different combinations of language, congruency, and acquisition type. Most notably, the coefficient "early_late_acquisitionlate" has a 95% confidence interval that spans from negative to positive values. This would suggest that, at 95% confidence, there is simply not enough evidence to assess an effect within the late bilingual group across conditions. 
+
+These summary measures alone are not yet sufficient to answer the study's original research questions; we must plot the model's expected predictions and confidence intervals in order to visualise the results.
+
+### Create Pivoted Draws Table
+
+In order to visualise these predictions, we mutate the draws of the model to arrange the different coefficients into readable tables.
+```{r}
+data_bm_draws <- as_draws_df(data_bm) |>
+  mutate(
+    early_engcong = b_Intercept,
+    early_spancong = b_Intercept + b_languagespan,
+    early_engincong = b_Intercept + b_congruencyincong,
+    early_spanincong = b_Intercept + b_languagespan + b_congruencyincong +
+      `b_languagespan:congruencyincong`,
+    late_engcong = b_Intercept + b_early_late_acquisitionlate,
+    late_spancong = b_Intercept + b_early_late_acquisitionlate + b_languagespan +
+      `b_languagespan:early_late_acquisitionlate`,
+    late_engincong = b_Intercept + b_early_late_acquisitionlate + 
+      `b_congruencyincong:early_late_acquisitionlate`,
+    late_spanincong = b_Intercept + b_early_late_acquisitionlate + b_languagespan +
+      + b_congruencyincong +
+      `b_languagespan:congruencyincong:early_late_acquisitionlate`
+  )
+```
+
+We then pivot the draws object to make plotting easier. This selects only the columns created just above that include the coefficients. Because the column names are saved like "early_engcong", I can use the separate() function inside the pivoted table to separate the data in the columns where they have an underscore. This creates two columns, one for the acquisition type (early or late) and one for the condition (English/Spanish congruent/incongruent), as well as the expected predictions ("epred") of the draws. Finally, because we used a lognormal family for the regression model, our expected predictions for RT are currently in log. By mutating the column with the exponent function, they are back to being readable as microseconds.
+```{r}
+data_bm_draws_pivot <- data_bm_draws |>
+  select(early_engcong:late_spanincong) |>
+  pivot_longer(early_engcong:late_spanincong, names_to = "cond", values_to = "epred") |>
+  separate(cond, c("aoa", "condition")
+  ) |>
+  mutate(epred = exp(epred))
+
+data_bm_draws_pivot
+```
+
+# Plotting the Predictions
+
+Finally, we can plot the expected predictions of the draws table to visualise what the regression model predicts. Because both of our hypotheses are interested in how speakers having learned Spanish at different age ranges perform in the same conditions, we plot the model's expected predictions across each condition, and the predictions for each language group within these.
+
+###Figure 3
+3. Plot of the model's expected predictions for reaction time with language acquisition group and condition type as predictors. Each facet represents an acquisition group; the x axis represents the expected prediction of RTs in milliseconds, and the y axis shows predictions for the different conditions. Within-groups, it would seem like early bilinguals have slightly faster RT in the English incongruent condition, and late bilinguals have significantly slower RTs in the Spanish incongruent condition.
+```{r}
+data_bm_draws_pivot |>
+  ggplot(aes(epred, condition)) +
+  stat_halfeye() +
+  facet_grid(cols = vars(aoa))
+```
+
+###Figure 4
+
+4. Plot of the model's expected predictions for reaction time with language acquisition group and condition type as predictors. Each facet represents a condition; the x axis represents the expected prediction of RTs in milliseconds, and the y axis shows predictions for either late or early English-Spanish bilinguals. Between-groups, it would seem like early bilinguals' RT is slightly slower across the first three conditions, but the Spanish incongruent condition predicts much slower RTs for late bilinguals.
+```{r}
+data_bm_draws_pivot |>
+  ggplot(aes(epred, aoa)) +
+  stat_halfeye() +
+  facet_grid(cols = vars(condition))
+```
+
+### Hypothesis 1:
+
+  Hypothesis 1 predicted that L2 translation equivalents of the target word (that is, the two congruent conditions) should not produce more interference in late than in early bilinguals. Because they are more directly conceptually mediated, it should be expected that both late and early bilinguals will demonstrate similar levels of interference to each other across the two congruent conditions. In order to test this, within-group performance across both congruent conditions will be measured for both early and late bilinguals to see whether they differ.
+  Hypothesis 1 also predicts that the facilitation effect found by Costa et. al. (1999) should be the same for both early and late bilinguals. This would mean that early and late bilinguals would have faster within-group RTs in the English congruent condition than in the English incongruent condition. The same should be true for the Spanish congruent and Spanish incongruent conditions.
+  In order to measure this, I will create 2 plots: one for a within-group comparison of the two groups' performance across the two congruency conditions only, then one for a within-group comparison of RT predictions across both English conditions and both Spanish conditions.
+
+### Figure 5
+
+First, we create a new table that contains only the English congruent and Spanish congruent data, in order to be able to see whether the two groups performed differently within these conditions.
+```{r}
+identity <- data_bm_draws_pivot 
+identity <- identity |>
+  filter(condition == c("engcong", "spancong"))
+```
+5. Then, we plot each group's within-group performance across both congruent tasks. We use stat_interval() in order to see a 50, 80, and 90% confidence interval. This figure shows predicted RT in milliseconds across either the English or Spanish congruent condition, faceted between the early and late acquisition group.
+```{r}
+identity |>
+  ggplot(aes(epred, condition)) +
+  stat_interval() +
+  facet_grid(cols = vars(aoa))
+```
+
+  At a 95% confidence level, it would seem that both groups did perform similarly across both conditions, in the sense that the 95% confidence interval overlaps across conditions for both groups. While RTs for early bilinguals seem faster in the English congruent condition than the Spanish congruent condition, we could only have 50% confidence that this is actually the case. As for late bilinguals, however, there is clearly no observable difference between the conditions; even at 50% confidence the expected predictions are overlapping.
+  
+### Figure 6
+
+6. Next, as we don't need to isolate any two particular conditions, we can plot the pivoted draws table within-groups. This stat_interval() plot shows two panels, one for each language condition, and the expected predictions for RT across the four relevant conditions at 50, 80, and 95% confidence intervals.
+```{r}
+data_bm_draws_pivot |>
+  ggplot(aes(epred, condition)) +
+  stat_interval() +
+  facet_grid(cols = vars(aoa))
+```
+  According to the hypothesis, we are interested in whether the groups will generally do better in the congruent than incongruent conditions within each language category. For late bilinguals, this is clearly the case in the Spanish language condition; we can be 80% confident that late bilinguals are predicted to be slower in the Spanish incongruent condition than the Spanish congruent condition; this would seem to be a facilitation effect. No such effect can be said between the English conditions. For early bilinguals, however, there would seem to be a congruency facilitation effect at 80% in the English conditions. In the Spanish conditions, however, no such conditions can be observed.
+  
+### Hypothesis 2:
+
+  Hypothesis 2 predicted that late bilinguals would experience more semantic interference from words in Spanish than would early bilinguals. If this hypothesis is correct, then late bilinguals' RTs should be slower between-groups when the semantically related word is in their L2, compared to the early bilinguals. Specifically, they should perform similar between-groups in the English incongruent condition, as predicted by Hall (2011), but late bilinguals should have higher RTs than early bilinguals in the Spanish incongruent condition. 
+  In order to test this, one plot will be made showcasing both the English incongruent and the Spanish incongruent conditions, and each group's RTs will be compared within each condition.
+  
+### Figure 7:
+
+  First, we must create a table including only the two incongruent conditions, and then plot the intervals predicted.
+
+```{r}
+incongruent <- data_bm_draws_pivot 
+incongruent <- incongruent |>
+  filter(condition == c("engincong", "spanincong"))
+
+incongruent
+```
+7. Next we plot the stat_interval() of the above table. Because we are examining the effect between-groups, the facets are the two conditions, and the y axis is the two acquisition conditions.
+```{r}
+incongruent |>
+  ggplot(aes(epred, aoa)) +
+  stat_interval() +
+  facet_grid(cols = vars(condition))
+```
+  In the English incongruent condition, late bilinguals seem to have faster RTs, with 80% confidence. This effect is reversed in the Spanish incongruent condition; late bilinguals would have slower RTs, but only with 50% confidence.
+
+## Discussion
+
+The first research question of this study was whether late English-Spanish bilinguals experience more interference in the identity condition from their L2. Firstly, Costa et. al.'s (1999) identity effect could be supported for early bilinguals, but only very weakly, with 50% confidence (Figure 5). Secondly, Hypothesis 1 is only partially supported, and only very weakly. For one, it does seem that early and late bilinguals have similar reaction times across congruency conditions; we certainly cannot be more than 50% confident that they differ. Secondly, while it predicted that early and late bilinguals should both be faster in the congruent than incongruent condition in the same language, this was only mildly supported. Only a facilitation effect of English congruency in early bilinguals is observed with 80% confidence (Figure 6), and an interference effect of Spanish incongruency in late bilinguals is observed with 80% confidence. Crucially, they did not reach 95% confidence, nor was the rest of the hypothesis supported.
+
+As for the second research question, it could be said, with low confidence, that late Spanish-English bilinguals experienced more semantic interference than their early counterparts. In support of Hypothesis 2, Figure 7 suggests at 50% confidence that late bilinguals are slower in incongruent trials in their L2. But again, this is only at 50% confidence, and the second half of the hypothesis is not supported, since there is interference at almost 95% confidence in early bilinguals responses to English incongruent tasks, while late bilinguals are comparatively much smaller. 
+
+Overall, the data from this study are not very conclusive. As for either of the original research questions, they cannot be conclusively supported with robus evidence, as few results were obtained at over 50% confidence. 
+However, it is still interesting to note that participants between acquisition groups did display some differences between groups and across conditions, as displayed for instance in Figure 7. This research was of course very limited by the amount of participants from which it gathered data. It also regrettably was not able to consider factors such as proficiency, which despite being recorded was not analysed since participants all ended up being very proficient.
+Future work should examine these factors in addition to include far more participants, in order to obtain more robust effects, if any.
